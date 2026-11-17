@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security vulnerability
+    url: https://www.energiesolution.it/
+    about: Do not post vulnerabilities publicly. Read SECURITY.md and arrange a confidential reporting channel.
+  - name: Company information
+    url: https://www.energiesolution.it/
+    about: Visit the official website for general inquiries.
